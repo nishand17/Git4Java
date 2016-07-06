@@ -1,6 +1,8 @@
 # Git4Java
-*A rudimentary GitHub client for Java*
+#### *A rudimentary GitHub client for `Java`*
 
+### About
+*Coming soon*
+
+### Authors
 Brought to you by [@wchern](https://github.com/wchern) and [@nishand17](https://github.com/nishand17).
-
-Project Page on http://nishand17.github.io/Git4Java/
